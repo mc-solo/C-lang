@@ -1,1 +1,1 @@
-Personal C lang master_class
+No one reads a readme except some stupid nerds.
