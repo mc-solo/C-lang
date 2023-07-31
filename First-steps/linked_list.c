@@ -8,7 +8,7 @@ typedef struct Node {
     struct Node *next; //points to the next node
 }Node;
 
-void printList(struct Node* head) //takes a pointer to the hes of the linked list
+void printList(Node* head) //takes a pointer to the hes of the linked list
 {
     Node *current = head; //temporary pointer called current
     while (current != NULL)
